@@ -1,0 +1,18 @@
+{
+  "name": "easy-erb",
+  "main": "./lib/easy-erb",
+  "version": "0.1.0",
+  "description": "Easy-Erb Description here",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "easy-erb:toggle"
+  },
+  "repository": "https://github.com/atom/easy-erb",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

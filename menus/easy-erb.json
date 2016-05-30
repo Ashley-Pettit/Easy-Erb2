@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle easy-erb",
+        "command": "easy-erb:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "easy-erb",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "easy-erb:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
